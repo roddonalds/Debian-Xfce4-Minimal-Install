@@ -14,6 +14,7 @@ chown $SUDO_USER:$SUDO_USER /home/$SUDO_USER/.xsessionrc
 apt install -y \
     libxfce4ui-utils \
     thunar \
+    xfce4-screenshooter \
     xfce4-appfinder \
     xfce4-panel \
     xfce4-pulseaudio-plugin \
