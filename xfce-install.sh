@@ -17,6 +17,7 @@ apt install -y \
     xfce4-screenshooter \
     xfce4-appfinder \
     xfce4-panel \
+    xfce4-power-manager \
     xfce4-pulseaudio-plugin \
     xfce4-whiskermenu-plugin \
     xfce4-session \
