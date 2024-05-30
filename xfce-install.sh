@@ -15,6 +15,7 @@ apt install -y \
     libxfce4ui-utils \
     thunar \
     xfce4-screenshooter \
+    xfce4-notifyd \
     xfce4-appfinder \
     xfce4-panel \
     xfce4-power-manager \
